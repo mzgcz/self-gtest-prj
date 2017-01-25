@@ -1,6 +1,6 @@
-#include "code.h"
+#include "code.hh"
 
-int give_input_num(int n)
+int give_input_num(int num)
 {
-  return n;
+    return num;
 }
