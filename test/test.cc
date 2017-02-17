@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "../code.hh"
+#include "code.hh"
 
 TEST(PassTest, EqTest)
 {
